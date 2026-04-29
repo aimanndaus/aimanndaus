@@ -85,18 +85,6 @@ I'm a **full-stack web developer** from Malaysia, currently working at **Synchro
 
 ---
 
-## 🐍 Contribution Snake
-
-<!-- <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aimanndaus/aimanndaus/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aimanndaus/aimanndaus/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/aimanndaus/aimanndaus/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-  </picture>
-</p> -->
-
----
-
 ## 🤙 Connect With Me
 
 <p>
